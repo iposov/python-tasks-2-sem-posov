@@ -9,6 +9,8 @@ if 10 != x:
 else:
     print("десять")
 
+print("hello")
 
-def f(xx):
-    return xx + 1
+
+def f(a):
+    return a + 1
